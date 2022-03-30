@@ -1,4 +1,4 @@
-MIS,Cumpleaños,NivelEducativo,EstadoCivil,Ingreso,CantNiños,CantAdolecente,InicioCliente,AlimentosFrescos,Vinos,Frutas,Carnes,Pescado,Dulces,Oro,ComprasOfertas,ComprasWeb,ComprasCatalogo,ComprasTienda,VisitasWeb,AceptaCompra1,AceptaCompra2,AceptaCompra3,AceptaCompra4,AceptaCompra5,Quejas,CostoContacto,CostoIngresos,Respuestas,TotalProductos,TotalCompras,Edad,Antiguedad,TieneNiños,TieneAdolecentes
+MIS,Cumpleanos,NivelEducativo,EstadoCivil,Ingreso,CantNinos,CantAdolecente,InicioCliente,AlimentosFrescos,Vinos,Frutas,Carnes,Pescado,Dulces,Oro,ComprasOfertas,ComprasWeb,ComprasCatalogo,ComprasTienda,VisitasWeb,AceptaCompra1,AceptaCompra2,AceptaCompra3,AceptaCompra4,AceptaCompra5,Quejas,CostoContacto,CostoIngresos,Respuestas,TotalProductos,TotalCompras,Edad,Antiguedad,TieneNinos,TieneAdolecentes
 5524,1957,Graduation,Single,58138,0,0,4/09/2012,58,635,88,546,172,88,88,3,8,10,4,7,0,0,0,0,0,0,3,11,1,1675,32,65,10,0,0
 2174,1954,Graduation,Single,46344,1,1,8/03/2014,38,11,1,6,2,1,6,2,1,1,2,5,0,0,0,0,0,0,3,11,0,65,11,68,8,1,1
 4141,1965,Graduation,Together,71613,0,0,21/08/2013,26,426,49,127,111,21,42,1,8,2,10,4,0,0,0,0,0,0,3,11,0,802,25,57,9,0,0

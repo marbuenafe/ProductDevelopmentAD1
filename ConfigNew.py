@@ -12,14 +12,14 @@ EstadoCivil_VARS = ['EstadoCivil']
 #Variables numéricas con NA
 NUMERICAL_VARS_WITH_NA = ['Ingreso']
 
-DROP_FEATURES = ['MIS', 'InicioCliente','Cumpleaños']
+DROP_FEATURES = ['MIS', 'InicioCliente','Cumpleanos']
 
 NUMERICALS_LOG_VARS = ['ComprasTienda','VisitasWeb','Ingreso']
 
 NUMERICALS_YEJ_VARS = ['AlimentosFrescos','Vinos','Carnes','Oro','ComprasTienda','TotalProductos','Edad']
 
 #Variables para binarización por sesgo fuerte
-BINARIZE_VARS = ['AceptaCompra1','AceptaCompra2','AceptaCompra3','AceptaCompra4','AceptaCompra5','Quejas','TieneNiños','TieneAdolecentes']
+BINARIZE_VARS = ['AceptaCompra1','AceptaCompra2','AceptaCompra3','AceptaCompra4','AceptaCompra5','Quejas','TieneNinos','TieneAdolecentes']
 
 #Variables categoricas a codificar sin ordinalidad
 CATEGORICAL_VARS = ['NivelEducativo' ]
@@ -34,5 +34,5 @@ FEATURES = [
     'Ingreso','EstadoCivil', 'AlimentosFrescos', 'Frutas', 'Carnes', 'Pescado', 'Oro',
        'ComprasCatalogo', 'ComprasTienda', 'VisitasWeb', 'AceptaCompra1',
        'AceptaCompra2', 'AceptaCompra3', 'AceptaCompra4', 'AceptaCompra5',
-       'TotalCompras', 'Antiguedad', 'TieneNiños', 'TieneAdolecentes','Quejas','NivelEducativo','Vinos','TotalProductos','Edad',
+       'TotalCompras', 'Antiguedad', 'TieneNinos', 'TieneAdolecentes','Quejas','NivelEducativo','Vinos','TotalProductos','Edad',
 ]
